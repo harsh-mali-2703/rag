@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pypdf
+transformers
+torch
+faiss-cpu
+numpy
+requests
+langchain-text-splitters
